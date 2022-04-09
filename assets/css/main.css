@@ -2994,6 +2994,7 @@ input, select, textarea {
 		justify-content: center;
 		margin: 0 auto;
 	}
+.features p { text-align: center }
 
 		.features .feature {
 			margin-bottom: 5.5rem;
