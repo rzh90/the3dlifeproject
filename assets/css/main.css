@@ -3147,7 +3147,7 @@ input, select, textarea {
 						-webkit-align-self: -webkit-flex-start;
 						-ms-align-self: -ms-flex-start;
 						align-self: flex-start;
-						height: 25rem;
+						height: 40rem;
 						min-width: 100%;
 						overflow: hidden;
 					}
@@ -3185,7 +3185,7 @@ input, select, textarea {
 				}
 
 					.spotlights .spotlight .image {
-						height: 20rem;
+						height: 30rem;
 					}
 
 					.spotlights .spotlight .content {
